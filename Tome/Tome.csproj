@@ -154,6 +154,12 @@
       <Version>6.2.11</Version>
     </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tome.Views\Tome.Views.csproj">
+      <Project>{c3f24e97-566a-4b22-96e4-af1eaabd941b}</Project>
+      <Name>Tome.Views</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
