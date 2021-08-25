@@ -155,6 +155,10 @@
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Tome.Models\Tome.Models.csproj">
+      <Project>{82c200c8-5676-4c13-9563-8b97892ca850}</Project>
+      <Name>Tome.Models</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Tome.Views\Tome.Views.csproj">
       <Project>{c3f24e97-566a-4b22-96e4-af1eaabd941b}</Project>
       <Name>Tome.Views</Name>
