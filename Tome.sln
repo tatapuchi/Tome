@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tome", "Tome\Tome.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tome.Views", "Tome.Views\Tome.Views.csproj", "{C3F24E97-566A-4B22-96E4-AF1EAABD941B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tome.Models", "Tome.Models\Tome.Models.csproj", "{82C200C8-5676-4C13-9563-8B97892CA850}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,26 @@ Global
 		{C3F24E97-566A-4B22-96E4-AF1EAABD941B}.Release|x64.Build.0 = Release|x64
 		{C3F24E97-566A-4B22-96E4-AF1EAABD941B}.Release|x86.ActiveCfg = Release|x86
 		{C3F24E97-566A-4B22-96E4-AF1EAABD941B}.Release|x86.Build.0 = Release|x86
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|ARM.Build.0 = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|x64.Build.0 = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Debug|x86.Build.0 = Debug|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|ARM.ActiveCfg = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|ARM.Build.0 = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|ARM64.Build.0 = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|x64.ActiveCfg = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|x64.Build.0 = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|x86.ActiveCfg = Release|Any CPU
+		{82C200C8-5676-4C13-9563-8B97892CA850}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
